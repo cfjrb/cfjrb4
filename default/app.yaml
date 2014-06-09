@@ -1,0 +1,8 @@
+application: cfjrb4
+version: 1
+runtime: php
+api_version: 1
+
+handlers:
+- url: /.*
+  script: main.php
